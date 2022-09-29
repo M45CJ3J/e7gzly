@@ -1,7 +1,7 @@
 # e7gzly
 -to book any thing 
 -this is a project you can through it book anything form any organization.
-
+-its design pattern is MVC
 -it is a simple OOP php App This project was generated with php version 7.
 
 Development server
